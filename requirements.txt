@@ -1,5 +1,8 @@
 flask
+flask-bootstrap
 flask-login
+flask-mail
 flask-migrate
 flask-sqlalchemy
 flask-wtf
+pyjwt
